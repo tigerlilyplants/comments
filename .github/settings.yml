@@ -1,0 +1,13 @@
+# Keep the existing labels and define the label used by the website comment widget.
+labels:
+  - name: bug
+    color: CC0000
+    description: An issue with the system 🐛.
+  - name: feature
+    color: '336699'
+    description: New functionality.
+  - name: Help Wanted
+    color: ededed
+  - name: Comment
+    color: '0e8a16'
+    description: Comments on Tiger Lily Plants blog posts.

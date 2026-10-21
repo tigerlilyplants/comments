@@ -1,0 +1,3 @@
+# Review contact for the comment repository configuration.
+/.github/CODEOWNERS @emmeowzing
+/.github/settings.yml @emmeowzing
